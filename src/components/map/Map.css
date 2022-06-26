@@ -1,0 +1,17 @@
+
+.map-wrapper{
+    display: grid;
+    place-items: center;
+    width:100vw;
+    height:100vh;
+}
+.leaflet-container{
+    width:90%;
+    height:70vh;
+    border-radius: 20px;
+}
+.popup-image{
+    width:250px;
+    height:250px;
+    object-fit: cover;
+}

@@ -1,0 +1,6 @@
+.App{
+    display:grid;
+    grid-auto-flow: row;
+    background-color: transparent;
+    gap:20px;
+}
